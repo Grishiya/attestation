@@ -1,4 +1,4 @@
-package com.gridnine.testing.interfaces;
+package com.gridnine.testing.filter.interfaces;
 
 import com.gridnine.testing.Flight;
 
